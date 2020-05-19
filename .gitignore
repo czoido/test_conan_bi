@@ -1,0 +1,6 @@
+.DS_Store
+build_info.json
+conan.lock
+consumer/.DS_Store
+consumer_regular/.DS_Store
+libHO/.DS_Store
